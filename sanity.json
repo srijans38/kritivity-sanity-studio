@@ -2,7 +2,7 @@
   "root": true,
   "project": {
     "name": "kritivity-studio",
-    "basePath": "/studio"
+    "basePath": "/"
   },
   "api": {
     "projectId": "mj5cd582",
